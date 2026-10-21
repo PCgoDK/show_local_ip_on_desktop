@@ -1,0 +1,7 @@
+{
+    "uuid": "local-ip@pcgo",
+    "name": "Lokal IP-adresse",
+    "description": "Viser den lokale IPv4-adresse på skrivebordet.",
+    "version": "1.0",
+    "prevent-decorations": true
+}
